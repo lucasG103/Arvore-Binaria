@@ -19,11 +19,8 @@ Implementação de uma Árvore Binária de Busca em Java com funcionalidade de r
 ## Casos de remoção
 
 - Remoção de nó folha
-- 
 - Remoção de nó com um filho
-- 
 - Remoção de nó com dois filhos
-- 
 - Remoção da raiz
 
 ---
