@@ -1,6 +1,6 @@
-# Árvore Binária de Busca — BST
+# Árvore Binária
 
-Implementação de uma Árvore Binária de Busca em Java com funcionalidade de remoção de nós, desenvolvida como trabalho da disciplina de Estruturas de Dados.
+Implementação de uma Árvore Binária de Busca em Java com funcionalidade de remoção de nós
 
 ---
 
